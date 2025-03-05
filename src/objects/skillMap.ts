@@ -11,8 +11,7 @@ import {
   FaGithub,
   FaGitAlt,
   FaDatabase,
-  FaFlask,
-  FaProjectDiagram,
+  FaFlask
 } from "react-icons/fa";
 import {
   SiJavascript,
